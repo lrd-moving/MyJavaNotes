@@ -1,4 +1,27 @@
-package com.Lrd;
+####Array
+
+https://www.cnblogs.com/epeter/p/5664926.html
+
+- 声明数组
+- 查看数组长度
+- 遍历数组
+- int数组转成string数组
+- 从array中创建arraylist
+- 数组中是否包含某一个值
+- 将数组转成set集合
+- 将数组转成list集合
+- Arrays.fill()填充数组
+- 数组排序
+- 复制数组
+- 比较两个数组
+- 去重复
+- 查询数组中的最大值和最小值
+- 数组作为参数
+- 数组作为返回值
+- 二维数组
+  
+  ```
+  package com.Lrd;
 
 
 import com.sun.javafx.binding.StringFormatter;
@@ -126,3 +149,5 @@ public class ArrayTest {
     }
 
 }
+
+  ```
