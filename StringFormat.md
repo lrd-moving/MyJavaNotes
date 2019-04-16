@@ -59,11 +59,7 @@
 - width是可选参数，用于控制输出的宽度
 
   ```java
-          /*
-          * width
-          * */
-          System.out.println(String.format("%5d", 2));
-          
+  System.out.println(String.format("%5d", 2));     
   //    2
   ```
 
@@ -74,7 +70,7 @@
 - 不可用于整数，会抛异常 *IllegalFormatPrecisionException*
 
   ```Java
-          System.out.println(String.format("%.2f", 1.2));
+  System.out.println(String.format("%.2f", 1.2));
   //1.20
   ```
 
